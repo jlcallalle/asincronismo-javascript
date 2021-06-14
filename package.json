@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlcallalle/asincronismo-javascript.git"
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "async"
+  ],
+  "author": "Jorge Callalle Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlcallalle/asincronismo-javascript/issues"
+  },
+  "homepage": "https://github.com/jlcallalle/asincronismo-javascript#readme"
+}
